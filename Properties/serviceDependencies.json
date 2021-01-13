@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "Galgau_Diana_ProiectContext"
+    }
+  }
+}
